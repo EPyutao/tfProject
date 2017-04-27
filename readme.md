@@ -45,12 +45,12 @@ predict_text = crack_captcha(image)
 print("正确: {}  预测: {}".format(text, predict_text))
 </code></pre>
 最终测试结果如下：
-![right][http://epyutao.oss-cn-shanghai.aliyuncs.com/figure_2.png]
+![right](http://epyutao.oss-cn-shanghai.aliyuncs.com/figure_2.png)
 <pre><code>
 正确: jkMf  预测: jkMf
 </code></pre>
 反复测试中，也发现了错误。
-![wrong][http://epyutao.oss-cn-shanghai.aliyuncs.com/figure_1.png]
+![wrong](http://epyutao.oss-cn-shanghai.aliyuncs.com/figure_1.png)
 <pre><code>
 正确: e8g2  预测: e8B2
 </code></pre>
